@@ -7,6 +7,6 @@ time = 1300
 greet = "Good Afternoon!"
 #
 #If Statement 
-if time > 12
+if time > 1200
   puts greet
 end
