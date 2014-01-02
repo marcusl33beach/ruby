@@ -1,3 +1,12 @@
-if var == 10
-	print "Variable is 10"
+#!/usr/bin/ruby
+#Designed Date: 01/01/2014
+#Designed By: www.rubyadministrator.com
+#
+#Create a Variables
+time = 1300
+greet = "Good Afternoon!"
+#
+#If Statement 
+if time > 12
+  puts greet
 end
