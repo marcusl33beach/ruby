@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 #Designed Date: 01/01/2014
-#Designed By: www.rubyadministrator.com
+#Designed By: http://www.rubyadministrator.com
 #
 #Create a Variables
 time = 1300
