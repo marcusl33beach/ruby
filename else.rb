@@ -8,9 +8,9 @@ PM = "Good Afternoon!"
 AM = "Good Morning!"
 #
 #If Statement
-if time > 1200
+if time &gt; 1200
   puts PM
-#Else Statment
+#Else Statement
 else
   puts AM
 end
